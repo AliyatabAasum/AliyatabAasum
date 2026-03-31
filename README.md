@@ -21,28 +21,4 @@
 - 🌐 HTML, CSS (Basics)
 - 🔧 Git & GitHub
 
----
 
-## 📌 Projects
-### 🔹 Java Calculator
-- Basic calculator performing arithmetic operations  
-- Built using Java  
-
-### 🔹 AI Chatbot
-- Built using Spring AI Alibaba  
-- Demonstrates AI integration with Java  
-
----
-
-## 📊 GitHub Stats
-![Aliya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliyatabAasum&show_icons=true)
-
----
-
-## 🔗 Connect with Me
-- 💼 LinkedIn: (Add your link here)
-
----
-
-## 💡 Quote
-⭐ "Consistent learning leads to success"
