@@ -1,16 +1,48 @@
-## Hi there 👋
+# Hi 👋, I'm Aliya Tabasum
 
-<!--
-**AliyatabAasum/AliyatabAasum** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final Year Computer Science Engineering (AI/ML) Student  
+💻 Java Developer | AI Enthusiast  
+🚀 Passionate about building real-world projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🌱 Currently learning **Agentic AI & Advanced Java**
+- 🔭 Working on **AI-based and Java projects**
+- 🎯 Goal: To become a Software Developer in a product-based company
+- ⚡ Strong interest in **AI, Automation, and Problem Solving**
+
+---
+
+## 🛠️ Skills
+- 💻 Java
+- 🐍 Python (Basics)
+- 🤖 AI/ML Concepts
+- 🌐 HTML, CSS (Basics)
+- 🔧 Git & GitHub
+
+---
+
+## 📌 Projects
+### 🔹 Java Calculator
+- Basic calculator performing arithmetic operations  
+- Built using Java  
+
+### 🔹 AI Chatbot
+- Built using Spring AI Alibaba  
+- Demonstrates AI integration with Java  
+
+---
+
+## 📊 GitHub Stats
+![Aliya's GitHub stats](https://github-readme-stats.vercel.app/api?username=AliyatabAasum&show_icons=true)
+
+---
+
+## 🔗 Connect with Me
+- 💼 LinkedIn: (Add your link here)
+
+---
+
+## 💡 Quote
+⭐ "Consistent learning leads to success"
