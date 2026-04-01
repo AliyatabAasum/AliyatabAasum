@@ -1,7 +1,7 @@
 # Hi 👋, I'm Aliya Tabasum
 
 🎓 Final Year Computer Science Engineering (AI/ML) Student  
-💻 Java Developer | AI Enthusiast  
+💻 Junior Java Developer | AI Enthusiast | Aspiring Software Engineer  
 🚀 Passionate about building real-world projects  
 
 # 💫 About Me:
