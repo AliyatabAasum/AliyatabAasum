@@ -7,7 +7,6 @@
 # 💫 About Me:
 🌱 Currently learning Agentic AI & Advanced Java<br>🔭 Working on AI-based and Java projects<br>🎯 Goal: To become a Software Developer in a product-based company<br>⚡ Strong interest in AI, Automation, and Problem Solving
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aliya-tabasum-a83190308) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aliyatabasum298@gmail.com) 
 
